@@ -1,9 +1,13 @@
 Completed CodePen: https://codepen.io/Elias1/pen/qBOWBeK?editors=1100
 
 1. What is Semantic HTML? 
+    Semantic HTML is markup that provides meaning.
     2. What is HTML used for? 
+        HTML is used for the base content of the website.
     3. What is an attribute and where do we put it? 
+        An attribute is a modifier of an HTML element and we put it in the tags <>.
     4. What is the h1 tag used for? How many times should I use it on a page?
+        The h1 tag is used to designate the main heading. No more than one time per page.
     5. Name two tags that have required attributes
     6. What do we put in the head of our HTML document? 
     7. What is an id? 
