@@ -84,5 +84,6 @@ Stretch Questions
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
         You would use the padding property.
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
-        
+        Three display block by default elements are p, heading tags, and unordered list. Two display inline by default elements are the anchor tag and button tag. One element that is display inline-block by default is the nav tag.
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
+        The box model is a model that explains the layers of space around an element. The outermost layer is the position. The next layer is margin. Then border. And finally padding. The "fix" for the box model is the box-sizing property.
